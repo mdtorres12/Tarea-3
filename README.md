@@ -298,6 +298,8 @@ R2
 
 VIDEO
 
+https://youtu.be/gPU6a0nQoVQ
+
 CONCLUSIONES
 
 Logramos identificar las diferencias que existen entre los circuitos en serie y los circuitos en paralelo, así emplear correctamente las fórmulas para cada uno de los circuitos, y como estos lucen en la práctica.
